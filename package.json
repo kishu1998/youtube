@@ -2,7 +2,7 @@
   "name": "nav",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kishu1998.github.io/youtube",
+  "homepage": "https://kishu1998.github.io/youtube",
   "dependencies": {
     "lodash": "^4.17.14",
     "react": "^16.8.6",
